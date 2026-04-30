@@ -1,11 +1,14 @@
-<h1 align="center">Hi there, I'm Rohit Mane 👋</h1>
-<h3 align="center">Aspiring Generative AI Specialist | AI & DS Engineering Student</h3>
+<h1 align="center">Hi there, I'm Rohini Netaji Kale 👋</h1>[cite: 1]
+<h3 align="center">B.E. in Artificial Intelligence and Data Science @ SPPU | Batch of 2027</h3>[cite: 1]
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://rohinikale.site" target="_blank">[cite: 1]
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohinikale25" target="_blank">[cite: 1]
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kalerohini333@gmail.com">[cite: 1]
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -14,36 +17,42 @@
 
 ### 👨‍💻 About Me
 
-I am a 3rd-year Artificial Intelligence and Data Science student at SPPU based in Pune, Maharashtra. I specialize in bridging the gap between heavy data science and user-facing applications. I'm highly passionate about Generative AI, machine learning, and building seamless mobile and web experiences.
-
-*   🔭 **Currently Building:** **CosmoSafe**, a Flutter application utilizing Meta Llama 4 Maverick vision AI to analyze cosmetic ingredients against CDSCO, EU, and FDA compliance standards.
-*   🌱 **Currently Exploring:** Advanced Generative AI implementations, Streamlit, and FastAPI integrations.
-*   👯 **Community:** Organized and campaigned for **Vortexa**, featuring a 12-hour technical hackathon.
-*   💬 **Ask me about:** Python, Generative AI, Flutter, and predictive modeling.
+*   🎓 Pursuing my B.E. in Artificial Intelligence and Data Science at Savitribai Phule Pune University (Aggregate CGPA: 9.59).[cite: 1]
+*   🔭 Currently gaining hands-on experience as a Data Science Intern at CodeWithHarry.[cite: 1]
+*   💼 Serving as a Business Associate leading a 10-12 member cross-functional team in a health-tech startup.[cite: 1]
+*   🏅 Selected as a Katalyst India Scholar for a national STEM leadership and industry mentorship program.[cite: 1]
+*   🤝 Previously taught coding at an NGO and contributed tech support as a Technical Member at Byteminds (2024).[cite: 1]
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**AI, Machine Learning & Data Science**
+**Languages & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />[cite: 1]
 </p>
 
-**Frontend & Mobile Development**
+**AI, ML & Data Science**
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />[cite: 1]
 </p>
 
-**Backend & APIs**
+**Tools & Technologies**
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Vision_OCR-4285F4?style=flat-square&logo=google&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />[cite: 1]
 </p>
 
 ---
@@ -52,16 +61,15 @@ I am a 3rd-year Artificial Intelligence and Data Science student at SPPU based i
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **CosmoSafe** | Mobile app scanning cosmetic labels via Vision AI to rate safety (A-E) against global regulatory standards. | Flutter, Llama 4 Maverick Vision AI |
-| **AI Cyclone Predictor** | Multi-source deep learning framework fusing ocean, atmospheric, and satellite data to predict cyclone formation and intensity. | Deep Learning, Python |
-| **Box Office Prophet** | Regression-based NLP pipeline designed to analyze sentiment and predict the financial revenue of upcoming movies. | NLP, Scikit-Learn |
-| **Job Market Analyzer** | Research framework utilizing scraped LinkedIn data to map in-demand skills and geographical job trends. | Python, Pandas, Data Visualization |
+| **CosmoSafe - The Cosmetic Analyzer** | Flutter app that scans cosmetic labels via vision AI, rates ingredients A-E against Indian CDSCO, EU, and FDA compliance, and recommends alternatives via Nykaa affiliate links.[cite: 1] | Flutter, Vision AI, LLM[cite: 1] |
+| **Rapid Intensification (RI) For Tropical Cyclone** | End-to-end ML pipeline achieving AUC-ROC of 0.916 to predict tropical cyclone rapid intensification from NOAA IBTRACS data.[cite: 1] | Machine Learning, Random Forest, XGBoost[cite: 1] |
+| **Movie-Success-Prediction** | Python-based data science project combining ML, NLP-driven sentiment analysis, and TMDB API integration to predict box office revenue via an interactive dashboard.[cite: 1] | Python, NLP, REST API[cite: 1] |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitmane45&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmane45&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohinikale2525&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />[cite: 1]
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohinikale2525&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />[cite: 1]
 </p>
