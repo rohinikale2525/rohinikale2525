@@ -1,14 +1,67 @@
-# About Me:
-🎓 B.E. in Artificial Intelligence & Data Science @ SPPU (CGPA: 9.59) | Batch of 2027<br>🌍 Based in Pune, Maharashtra, India<br>🔭 Currently working on AI/ML projects & a Data Science Internship @ CodeWithHarry<br>🌱 Exploring Deep Learning, NLP, and Full-Stack AI App Development<br>💡 I love turning raw data into real-world impact — from predicting cyclones to analyzing cosmetics<br>🚀 Building CosmoSafe — a Flutter + Vision AI app for cosmetic ingredient safety<br>👩‍💼 Business Associate leading a cross-functional team in a health-tech startup<br>🏆 Katalyst India Scholar | STEM Leadership & Industry Mentorship Program<br>💬 Ask me about Python, Machine Learning, Flutter, Data Science, or REST APIs<br>⚡ Fun fact: I built an ML model that detects cyclone rapid intensification with 91.6% AUC-ROC!<br>📫 Reach me at: kalerohini333@gmail.com<br>🌐 Portfolio: [rohinikale.site](https://www.rohinikale.site/)
+<h1 align="center">Hi there, I'm Rohit Mane 👋</h1>
+<h3 align="center">Aspiring Generative AI Specialist | AI & DS Engineering Student</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohinikale25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalerohini333@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rohinikale2525&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rohinikale2525&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohinikale2525&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 👨‍💻 About Me
 
+I am a 3rd-year Artificial Intelligence and Data Science student at SPPU based in Pune, Maharashtra. I specialize in bridging the gap between heavy data science and user-facing applications. I'm highly passionate about Generative AI, machine learning, and building seamless mobile and web experiences.
+
+*   🔭 **Currently Building:** **CosmoSafe**, a Flutter application utilizing Meta Llama 4 Maverick vision AI to analyze cosmetic ingredients against CDSCO, EU, and FDA compliance standards.
+*   🌱 **Currently Exploring:** Advanced Generative AI implementations, Streamlit, and FastAPI integrations.
+*   👯 **Community:** Organized and campaigned for **Vortexa**, featuring a 12-hour technical hackathon.
+*   💬 **Ask me about:** Python, Generative AI, Flutter, and predictive modeling.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**AI, Machine Learning & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+
+**Frontend & Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **CosmoSafe** | Mobile app scanning cosmetic labels via Vision AI to rate safety (A-E) against global regulatory standards. | Flutter, Llama 4 Maverick Vision AI |
+| **AI Cyclone Predictor** | Multi-source deep learning framework fusing ocean, atmospheric, and satellite data to predict cyclone formation and intensity. | Deep Learning, Python |
+| **Box Office Prophet** | Regression-based NLP pipeline designed to analyze sentiment and predict the financial revenue of upcoming movies. | NLP, Scikit-Learn |
+| **Job Market Analyzer** | Research framework utilizing scraped LinkedIn data to map in-demand skills and geographical job trends. | Python, Pandas, Data Visualization |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitmane45&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmane45&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
