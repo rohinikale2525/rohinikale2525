@@ -1,75 +1,14 @@
-<h1 align="center">Hi there, I'm Rohini Netaji Kale 👋</h1>[cite: 1]
-<h3 align="center">B.E. in Artificial Intelligence and Data Science @ SPPU | Batch of 2027</h3>[cite: 1]
+# About Me:
+🎓 B.E. in Artificial Intelligence & Data Science @ SPPU (CGPA: 9.59) | Batch of 2027<br>🌍 Based in Pune, Maharashtra, India<br>🔭 Currently working on AI/ML projects & a Data Science Internship @ CodeWithHarry<br>🌱 Exploring Deep Learning, NLP, and Full-Stack AI App Development<br>💡 I love turning raw data into real-world impact — from predicting cyclones to analyzing cosmetics<br>🚀 Building CosmoSafe — a Flutter + Vision AI app for cosmetic ingredient safety<br>👩‍💼 Business Associate leading a cross-functional team in a health-tech startup<br>🏆 Katalyst India Scholar | STEM Leadership & Industry Mentorship Program<br>💬 Ask me about Python, Machine Learning, Flutter, Data Science, or REST APIs<br>⚡ Fun fact: I built an ML model that detects cyclone rapid intensification with 91.6% AUC-ROC!<br>📫 Reach me at: kalerohini333@gmail.com<br>🌐 Portfolio: [rohinikale.site](https://www.rohinikale.site/)
 
-<p align="center">
-  <a href="https://rohinikale.site" target="_blank">[cite: 1]
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohinikale25" target="_blank">[cite: 1]
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kalerohini333@gmail.com">[cite: 1]
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohinikale25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalerohini333@gmail.com) 
 
-### 👨‍💻 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rohinikale2525&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rohinikale2525&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohinikale2525&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-*   🎓 Pursuing my B.E. in Artificial Intelligence and Data Science at Savitribai Phule Pune University (Aggregate CGPA: 9.59).[cite: 1]
-*   🔭 Currently gaining hands-on experience as a Data Science Intern at CodeWithHarry.[cite: 1]
-*   💼 Serving as a Business Associate leading a 10-12 member cross-functional team in a health-tech startup.[cite: 1]
-*   🏅 Selected as a Katalyst India Scholar for a national STEM leadership and industry mentorship program.[cite: 1]
-*   🤝 Previously taught coding at an NGO and contributed tech support as a Technical Member at Byteminds (2024).[cite: 1]
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />[cite: 1]
-</p>
-
-**AI, ML & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />[cite: 1]
-</p>
-
-**Tools & Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Google_Vision_OCR-4285F4?style=flat-square&logo=google&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />[cite: 1]
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />[cite: 1]
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **CosmoSafe - The Cosmetic Analyzer** | Flutter app that scans cosmetic labels via vision AI, rates ingredients A-E against Indian CDSCO, EU, and FDA compliance, and recommends alternatives via Nykaa affiliate links.[cite: 1] | Flutter, Vision AI, LLM[cite: 1] |
-| **Rapid Intensification (RI) For Tropical Cyclone** | End-to-end ML pipeline achieving AUC-ROC of 0.916 to predict tropical cyclone rapid intensification from NOAA IBTRACS data.[cite: 1] | Machine Learning, Random Forest, XGBoost[cite: 1] |
-| **Movie-Success-Prediction** | Python-based data science project combining ML, NLP-driven sentiment analysis, and TMDB API integration to predict box office revenue via an interactive dashboard.[cite: 1] | Python, NLP, REST API[cite: 1] |
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohinikale2525&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />[cite: 1]
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohinikale2525&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />[cite: 1]
-</p>
